@@ -7,6 +7,10 @@
     padding: 0 6%;
 }
 
+.header img {
+    width: 150px;
+}
+
 .items a {
     padding: 30px 30px;
     text-decoration: none;
